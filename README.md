@@ -1,9 +1,10 @@
 # images_picker
-Android 13 14打开相册弹权限弹窗问题可以使用这个 升级了Android依赖的相册库到最新版 也可以自己升级一下Android依赖的相册库
-images_picker:
-git:
-url: https://github.com/1119093254/images_picker.git
-ref: master
+- Android 13 14打开相册弹权限弹窗问题可以使用这个 升级了Android依赖的相册库到最新版 也可以自己升级一下Android依赖的相册库
+- images_picker:
+- git:
+- url: https://github.com/1119093254/images_picker.git
+- ref: master
+- 
 [![images-picker](https://img.shields.io/badge/pub-1.2.10-orange)](https://pub.dev/packages/images_picker)
 
 Flutter plugin for selecting images/videos from the Android and iOS image library, and taking pictures/videos with the camera,save image/video to album/gallery
